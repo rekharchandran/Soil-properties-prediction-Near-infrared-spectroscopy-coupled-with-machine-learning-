@@ -1,0 +1,10 @@
+artifact_location: file:///c:/soil_spectra/src/mlruns/173596399340534264/models/m-5bfcc0177a8249248b1a3cf532c3713e/artifacts
+creation_timestamp: 1762936303432
+experiment_id: '173596399340534264'
+last_updated_timestamp: 1762936323676
+model_id: m-5bfcc0177a8249248b1a3cf532c3713e
+model_type: null
+name: model
+source_run_id: eee022ccf99c4d41b53a59345e29938c
+status: 2
+status_message: null
